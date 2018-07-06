@@ -1,0 +1,38 @@
+
+    {
+        "discourses" :[
+          {
+            "part" : "part1",  
+            "title" : "discours1",
+            "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/00_tiruppAvai_introduction_English_2015.mp3"
+          },
+          {
+            "part" : "part1",  
+            "title" : "discours2",
+            "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/00_tiruppAvai_introduction_English_2015.mp3"
+          },
+          {
+            "part" : "part1",  
+            "title" : "discours3",
+            "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/00_tiruppAvai_introduction_English_2015.mp3"
+          },
+          {
+            "part" : "part2",  
+            "title" : "discours4",
+            "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/001_Divya_Desa_Anubhavam__62_tiruvidanthai.mp3"
+            
+          }
+          , {
+            "part" : "part2",  
+            "title" : "discours5",
+            "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/001_Divya_Desa_Anubhavam__62_tiruvidanthai.mp3"
+          },
+          {
+            "part" : "part2",  
+            "title" : "discours",
+            "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/001_Divya_Desa_Anubhavam__62_tiruvidanthai.mp3"
+          }
+
+        ]
+         
+    }

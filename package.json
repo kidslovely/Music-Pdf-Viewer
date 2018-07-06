@@ -1,0 +1,39 @@
+{
+  "name": "Music-Pdf-Player",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-native-scripts": "1.14.0",
+    "jest-expo": "~27.0.0",
+    "react-test-renderer": "16.3.1"
+  },
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "expo": "^27.0.1",
+    "native-base": "^2.6.1",
+    "react": "16.3.1",
+    "react-mixin": "^4.0.0",
+    "react-native": "~0.55.2",
+    "react-native-elements": "^0.19.1",
+    "react-native-fetch-blob": "^0.10.8",
+    "react-native-modal": "^6.1.0",
+    "react-native-pdf": "^3.0.16",
+    "react-native-pdf-viewer": "^0.1.1",
+    "react-native-touchable-bounce": "^1.0.3",
+    "react-native-video": "^2.3.1",
+    "react-native-webview2": "^1.1.1",
+    "react-navigation": "^2.5.3",
+    "react-timer-mixin": "^0.13.3",
+    "versioned-file-downloader": "^1.0.0"
+  }
+}

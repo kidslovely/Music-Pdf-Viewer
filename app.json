@@ -1,0 +1,20 @@
+{
+  "expo": {
+  	"name": "discourses",
+    "sdkVersion": "27.0.0",
+    "version": "1.0.0",
+    "ios": {
+     "bundleIdentifier": "com.zou.discourses"
+   },
+   "android": {
+     "package": "com.zou.discourses"
+   },
+ 
+   "splash": {
+    "backgroundColor": "#f0fced"
+              }
+  }
+}
+
+
+
