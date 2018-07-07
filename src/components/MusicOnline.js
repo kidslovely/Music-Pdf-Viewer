@@ -15,7 +15,7 @@ import {
     Body
 } from "native-base"
 
-import { Image, SectionList,StyleSheet, TouchableOpacity,View, Alert } from "react-native";
+import { Image, SectionList,StyleSheet,TextInput, TouchableOpacity,View, Alert } from "react-native";
 
 // import {PdfSectionList} from "../pdfAssetes/PdfSelectionList";
 import Globals from './Global';
@@ -34,6 +34,7 @@ class MusicOnline extends Component {
           items :  null,
           name : null,
           data :[],
+          searchVal : null
         };
       }
   static navigationOptions = {
@@ -63,7 +64,7 @@ componentDidMount(){
         },()=>{console.log("error")},
         (res) =>{
           console.log('success 2',res);
-          this.update();
+          this.update(null);
         }
     );
   }
@@ -93,18 +94,55 @@ componentDidMount(){
       } );
   }
   update = () => {
-    this.done && this.done.update();
+    this.done && this.done.update(this.state.searchVal);
   }; 
-
+  ///// 7.7 updated 
+  search = () => {
+    //alert("this is search test");
+    this.done && this.done.update(this.state.searchVal);
+  }
   ////  to read book list file and insert database 
 
   render() {
       var {navigate} = this.props.navigation;
       Globals.online  = this.state.online;
-        return (
+      this.update();
+      return (
      
         <Container>
             <Content>
+          {/* 7.7 updated */}
+            <View
+                style={{
+                  marginLeft : 10,
+                  flexDirection: 'row',}}>
+            
+
+                <TextInput
+                    style={{
+                      flex: 1,
+                      
+                      height: 50,
+                      marginLeft : 10,
+                      borderColor: 'gray',
+                      borderWidth: 1,
+                    }}
+                    placeholder="what do you need to search?"
+
+                    value={this.state.searchVal}
+                    
+                    onChangeText={searchVal => this.setState({ searchVal })}
+
+                    onSubmitEditing={() => {
+                      this.search();
+                      // this.setState({ searchVal: null });
+                    }}
+                />
+
+                     <Icon style = {{padding : 10}} type="FontAwesome" name="search" onPress = {()=>this.search()} />
+             </View>
+                {/* 7.7 updated */}
+                
                <Musics
                    navigation = {navigate}
                    ref={done => (this.done = done)}  />
@@ -151,7 +189,7 @@ class Musics extends React.Component {
   };
 
   componentDidMount() {
-    this.update();
+    this.update(null);
   }
 
   render() {
@@ -180,15 +218,45 @@ class Musics extends React.Component {
     );
   }
 
-  update() {
-    Globals.db_music.transaction(tx => {
-      tx.executeSql(
-        `select * from discoures where flag = 0 GROUP BY part;`,
-        [],
-        (_, { rows: { _array } }) => this.setState({ parts: _array })
-      );
-    });
-  }
+  // update() {
+  //   Globals.db_music.transaction(tx => {
+  //     tx.executeSql(
+  //       `select * from discoures where flag = 0 GROUP BY part;`,
+  //       [],
+  //       (_, { rows: { _array } }) => this.setState({ parts: _array })
+  //     );
+  //   });
+  // }
+////////////////////////
+update(part) {
+  // console.log('update', this.props.name);
+ if(part === null)
+ {
+  Globals.db_music.transaction(tx => {
+    tx.executeSql(
+      `select * from discoures where flag = 0 GROUP BY part;`,
+      [],
+      (_, { rows: { _array } }) => this.setState({ parts: _array })
+    );
+  });
+   
+ } 
+ else
+ {
+  part = '%' + part + '%';
+
+  Globals.db_music.transaction(tx => {
+    tx.executeSql(
+      `select * from discoures where flag = 0 and part like ? GROUP BY part;`,
+      [part],
+      (_, { rows: { _array } }) => this.setState({ parts: _array })
+    );
+  });
+
+ }
+
+}
+
 }
 export default MusicOnline;
 

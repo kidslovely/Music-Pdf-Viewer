@@ -136,7 +136,7 @@ _onLongPressButton() {
 
        Globals.share_navigate =  this.props.navigation;
 
-      if(Platform.OS === 'android')  {'https://drive.google.com/viewerng/viewer?embedded=true&url=' + url}
+      if(Platform.OS === 'android')  {url = 'https://drive.google.com/viewerng/viewer?embedded=true&url=' + url}
         
      // const source = {uri:'http://samples.leanpub.com/thereactnativebook-sample.pdf',cache:true};
      // url = "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/10_Ten_Minute_Series_Anjali_Vaibhavam.m4a";

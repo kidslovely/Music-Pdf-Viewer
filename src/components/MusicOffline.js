@@ -15,7 +15,7 @@ import {
     Body
 } from "native-base"
 
-import { Image, SectionList,StyleSheet, TouchableOpacity,View, Alert } from "react-native";
+import { Image, SectionList,StyleSheet, TextInput, TouchableOpacity,View, Alert } from "react-native";
 
 import { Ionicons } from '@expo/vector-icons';
 import VideoPlayer from '../screens/VideoPlayerRJC';
@@ -36,6 +36,7 @@ class MusicOffline extends Component {
           items :  null,
           name : null,
           data :[],
+          searchVal : null,
         };
       }
   static navigationOptions = {
@@ -46,20 +47,60 @@ class MusicOffline extends Component {
       online: !this.state.online
     });
   }
-
+  update = () => {
+    this.done && this.done.update(this.state.searchVal);
+  }; 
+  ///// 7.7 updated 
+  search = () => {
+    //alert("this is search test");
+  this.update();
+  }
 ////  to read book list file and insert database 
 
   render() {
       var {navigate} = this.props.navigation;
       Globals.online  = this.state.online;
-        return (
+     
+     // this.update();
+     
+      return (
      
         <Container>
             <Content>
-              
+           {/* 7.7 updated */}
+            <View
+                style={{
+                  marginLeft : 10,
+                  flexDirection: 'row',}}>
+            
+
+                <TextInput
+                    style={{
+                      flex: 1,
+                      
+                      height: 50,
+                      marginLeft : 10,
+                      borderColor: 'gray',
+                      borderWidth: 1,
+                    }}
+                    placeholder="what do you need to search?"
+
+                    value={this.state.searchVal}
+                    
+                    onChangeText={searchVal => this.setState({ searchVal })}
+
+                    onSubmitEditing={() => {
+                      this.search();
+                      // this.setState({ searchVal: null });
+                    }}
+                />
+
+                     <Icon style = {{padding : 10}} type="FontAwesome" name="search" onPress = {()=>this.search()} />
+             </View>
+                {/* 7.7 updated */}
                <Musics
                    navigation = {navigate}
-                   ref={name => (this.name = name)}    />
+                   ref={done => (this.done = done)}  />
                </Content>
 
         <Footer>
@@ -105,10 +146,11 @@ class Musics extends React.Component {
     listcolor:"#FFFFFF",
     songUrl: null,
     m_id : 0,
+    searchTitle:  null
   };
 
-  componentDidMount() {
-    this.update();
+  componentWillMount() {
+    this.update(null);
   }
 
   playSound(id, urlPassed) {
@@ -152,7 +194,7 @@ class Musics extends React.Component {
             null);
 
        }
-       this.update();
+       this.update(this.state.searchTitle);
             
       })
       null,null
@@ -167,7 +209,8 @@ class Musics extends React.Component {
       },
        null,
        null);
-       this.update();
+  
+    this.update(this.state.searchTitle);
   }
   render() {
   
@@ -269,7 +312,13 @@ class Musics extends React.Component {
     );
   }
 
-  update() {
+  ////////////////////////////////
+  update(title) {
+  
+    this.setState({searchTitle : title});
+    // console.log('update', this.props.name);
+   if(title === null)
+   {
     Globals.db_music.transaction(tx => {
       tx.executeSql(
         `select * from discoures where flag = 1;`,
@@ -277,7 +326,24 @@ class Musics extends React.Component {
         (_, { rows: { _array } }) => this.setState({ discours: _array })
       );
     });
+     
+   } 
+   else
+   {
+    title = '%' + title + '%';
+  
+    Globals.db_music.transaction(tx => {
+      tx.executeSql(
+        `select * from discoures where flag = 1 and title like ?;`,
+        [title],
+        (_, { rows: { _array } }) => this.setState({ discours: _array })
+      );
+    });
+  
+   }
+  
   }
+  ///////////////////////////////
 }
 export default MusicOffline;
 

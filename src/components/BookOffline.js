@@ -15,7 +15,7 @@ import {
     Body
 } from "native-base"
 
-import { Image, SectionList,StyleSheet, TouchableOpacity,View, Alert } from "react-native";
+import { Image, SectionList,StyleSheet,TextInput, TouchableOpacity,View, Alert } from "react-native";
 
 // import {PdfSectionList} from "../pdfAssetes/PdfSelectionList";
 
@@ -31,6 +31,7 @@ class BookOffline extends Component {
           items :  null,
           name : null,
           data :[],
+          searchVal : null
         };
       }
   static navigationOptions = {
@@ -52,8 +53,14 @@ componentDidMount(){
    
   }
   update = () => {
-    this.done && this.done.update();
+    this.done && this.done.update(this.state.searchVal);
   }; 
+    ///// 7.7 updated 
+    search = () => {
+      //alert("this is search test");
+      this.done && this.done.update(this.state.searchVal);
+    }
+
   ////  to read book list file and insert database 
   render() {
       var {navigate} = this.props.navigation;
@@ -65,6 +72,38 @@ componentDidMount(){
      
         <Container>
             <Content>
+                   {/* 7.7 updated */}
+            <View
+                style={{
+                  marginLeft : 10,
+                  flexDirection: 'row',}}>
+            
+
+                <TextInput
+                    style={{
+                      flex: 1,
+                      
+                      height: 50,
+                      marginLeft : 10,
+                      borderColor: 'gray',
+                      borderWidth: 1,
+                    }}
+                    placeholder="what do you need to search?"
+
+                    value={this.state.searchVal}
+                    
+                    onChangeText={searchVal => this.setState({ searchVal })}
+
+                    onSubmitEditing={() => {
+                      this.search();
+                      // this.setState({ searchVal: null });
+                    }}
+                />
+
+                     <Icon style = {{padding : 10}} type="FontAwesome" name="search" onPress = {()=>this.search()} />
+             </View>
+                {/* 7.7 updated */}
+
                <Books
                    navigation = {navigate}
                    ref={done => (this.done = done)}  />
@@ -111,7 +150,7 @@ class Books extends React.Component {
   };
 
   componentDidMount() {
-    this.update();
+    this.update(null);
   }
 
   render() {
@@ -139,16 +178,55 @@ class Books extends React.Component {
       </View>
     );
   }
-
-  update() {
+  update(title) {
+    // console.log('update', this.props.name);
+   if(title === null)
+   {
     Globals.db_book.transaction(tx => {
       tx.executeSql(
         `select * from books where flag = 1;`,
-        [this.props.name],
-        (_, { rows: { _array } }) => this.setState({ books: _array })
+        [],
+        (_, { rows: { _array } }) => 
+          {
+            console.log('+++++++++++', _array) 
+            this.setState({ books: _array })
+          }     
+         
       );
-    });
+      
+    }, ()=>{console.log('erroe3')}, () =>{console.log('success 3')});
+     
+   } 
+   else
+   {
+    title = '%' + title + '%';
+
+    Globals.db_book.transaction(tx => {
+      tx.executeSql(
+        "select * from books where flag = 1 and title like ?;",
+        [title],
+        (_, { rows: { _array } }) => 
+          {
+            console.log('+++++++++++', _array) 
+            this.setState({ books: _array })
+          }     
+         
+      );
+      
+    }, ()=>{console.log('erroe3')}, () =>{console.log('success 3')});
+
+   }
+
   }
+  // update() {
+  //   Globals.db_book.transaction(tx => {
+  //     tx.executeSql(
+  //       `select * from books where flag = 1;`,
+  //       [this.props.name],
+  //       (_, { rows: { _array } }) => this.setState({ books: _array })
+  //     );
+  //   });
+  // }
 }
 export default BookOffline;
 

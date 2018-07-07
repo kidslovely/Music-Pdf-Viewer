@@ -19,7 +19,7 @@ import Expo, {FileSystem,ImagePicker, SQLite} from 'expo'
 import Globals from './Global'
 
 
-import { Image, SectionList, TouchableOpacity,Button, View, StyleSheet,WebView,Dimensions, Share, Alert,ScrollView } from "react-native";
+import { Image, SectionList, TouchableOpacity,Button, View, StyleSheet,WebView,Dimensions, Share, Alert,ScrollView,Platform} from "react-native";
 import Global from "./Global";
 
 // const db = SQLite.openDatabase('book3.db');
@@ -115,7 +115,7 @@ class BookViewerOffline extends React.Component {
        const {navigation} = this.props;
 
        const title = navigation.getParam('title','No Title');
-       const  url = navigation.getParam('filepath','Wrong URL');
+       var  url = navigation.getParam('filepath','Wrong URL');
        const id = navigation.getParam('id', 0);
       
        Globals.share_id = id;
@@ -123,6 +123,7 @@ class BookViewerOffline extends React.Component {
        Globals.share_filepath = url;
        Globals.share_navigate =  this.props.navigation;
 
+       if(Platform.OS === 'android')  {url = 'https://drive.google.com/viewerng/viewer?embedded=true&url=' + url}
       // const source = {uri:'http://samples.leanpub.com/thereactnativebook-sample.pdf',cache:true};
       return (
         <View style={styles.container}>
