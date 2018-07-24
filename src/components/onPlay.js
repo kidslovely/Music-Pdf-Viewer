@@ -59,6 +59,8 @@ constructor(props) {
     async download (id, title,url) {
         // check if field was null
         this.setState({progressflag: true});
+
+
         if (url) {
           try {
            

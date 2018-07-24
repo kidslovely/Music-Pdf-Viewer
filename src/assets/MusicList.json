@@ -1,38 +1,2553 @@
 
     {
-        "discourses" :[
-          {
-            "part" : "part1",  
-            "title" : "discours1",
-            "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/00_tiruppAvai_introduction_English_2015.mp3"
-          },
-          {
-            "part" : "part1",  
-            "title" : "discours2",
-            "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/00_tiruppAvai_introduction_English_2015.mp3"
-          },
-          {
-            "part" : "part1",  
-            "title" : "discours3",
-            "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/00_tiruppAvai_introduction_English_2015.mp3"
-          },
-          {
-            "part" : "part2",  
-            "title" : "discours4",
-            "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/001_Divya_Desa_Anubhavam__62_tiruvidanthai.mp3"
-            
-          }
-          , {
-            "part" : "part2",  
-            "title" : "discours5",
-            "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/001_Divya_Desa_Anubhavam__62_tiruvidanthai.mp3"
-          },
-          {
-            "part" : "part2",  
-            "title" : "discours",
-            "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/001_Divya_Desa_Anubhavam__62_tiruvidanthai.mp3"
-          }
+      "discourses" :[
+        {
+          "part" : "Guru Parampara",  
+          "title" : "ALavandAr mahimai GURU PARAMPARA 04",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/ALavandAr_mahimai_GURU_PARAMPARA_04.mp3"
+        },
+        {
+          "part" : "Guru Parampara",  
+          "title" : "GURU PARAMPARA 02 periyAzhvAr vaibhavam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/GURU_PARAMPARA_02_periyAzhvAr_vaibhavam.mp3"
+        },
+        {
+          "part" : "Guru Parampara",  
+          "title" : "GURU PARAMPARA 06 tirukkudantai dESikan",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/GURU_PARAMPARA_06_tirukkudantai_dESikan.mp3"
+        },
+        {
+          "part" : "Guru Parampara",  
+          "title" : "Common Tanians Meaning 01 English",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Common_Tanians_Meaning_01_English.mp3"
+        },
+        {
+          "part" : "Guru Parampara",  
+          "title" : "Common Tanians Meaning 02 English ",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Common_Tanians_Meaning_02_English_.mp3"
+        },
+       
+        {
+          "part" : "Tiruppavai Tamil",  
+          "title" : "tiruppAvai 00 intro part 1",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/tiruppAvai_00_intro_part_1.mp3"
+        },
+        {
+          "part" : "Tiruppavai Tamil",  
+          "title" : "tiruppAvai 00 intro part 2",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/tiruppAvai_00_intro_part_2.mp3"
+        },
+        {
+          "part" : "Tiruppavai Tamil",  
+          "title" : "tiruppAvai 00 tanian part 1",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/tiruppAvai_00_tanian_part_1.mp3"
+        },
+        {
+          "part" : "Tiruppavai Tamil",  
+          "title" : "tiruppAvai 00 tanian part 2",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/tiruppAvai_00_tanian_part_2.mp3"
+        },
+        {
+          "part" : "Tiruppavai Tamil",  
+          "title" : "tiruppAvai 01 pAsuram",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/tiruppAvai_01_pAsuram.mp3"
+        },
+        {
+          "part" : "Tiruppavai Tamil",  
+          "title" : "tiruppAvai 02 pAsuram",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/tiruppAvai_02_pAsuram.mp3"
+        },
+        {
+          "part" : "Tiruppavai Tamil",  
+          "title" : "tiruppAvai 06 puLLum silambina kAN",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/tiruppAvai_06_puLLum_silambina_kAN.mp3"
+        },
+        {
+          "part" : "Tiruppavai Tamil",  
+          "title" : "tiruppAvai 07 kEsu kEsu enrU engum",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/tiruppAvai_07_kEsu_kEsu_enrU_engum.mp3"
+        },
+        {
+          "part" : "Tiruppavai Tamil",  
+          "title" : "tirupAvai 08 kEzh vAnam veLLenRu",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/tirupAvai_08_kEzh_vAnam_veLLenRu.mp3"
+        },
+        {
+          "part" : "Tiruppavai Tamil",  
+          "title" : "tiruppAvai 09 thUmaNi mAdattu suRRum",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/tiruppAvai_09_thUmaNi_mAdattu_suRRum.mp3"
+        },
+        {
+          "part" : "Tiruppavai Tamil",  
+          "title" : "tiruppAvai 10 nORRu suvargam pugukinRa",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/tiruppAvai_10_nORRu_suvargam_pugukinRa.mp3"
+        },
+        {
+          "part" : "Tiruppavai Tamil",  
+          "title" : "tiruppAvai 11 kaRRuk kaRavaigaL pala",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/tiruppAvai_11_kaRRuk_kaRavaigaL_pala.mp3"
+        },
+        {
+          "part" : "Tiruppavai Tamil",  
+          "title" : "tiruppAvai 12 kanaittu iLam kaRRerumai",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/tiruppAvai_12_kanaittu_iLam_kaRRerumai.mp3"
+        },
+        {
+          "part" : "Tiruppavai Tamil",  
+          "title" : "tiruppAvai 13 puLLin vAi kENdanai polla arakkanai",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/tiruppAvai_13_puLLin_vAi_kENdanai_polla_arakkanai.mp3"
+        },
+        {
+          "part" : "Tiruppavai Tamil",  
+          "title" : "tiruppAvai 14 ungaL puzhakkadai thOttathuL",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/tiruppAvai_14_ungaL_puzhakkadai_thOttathuL.mp3"
+        },
+        {
+          "part" : "Tiruppavai Tamil",  
+          "title" : "tiruppAvai 16 nAyaganAi mind control English Lecture",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/tiruppAvai_16_nAyaganAi_mind_control_English_Lecture.mp3"
+        },
+       
 
-        ]
-         
-    }
+        {
+          "part" : "Paduka Sahasram",  
+          "title" : "pAdukA sahasram 01 adhyayana Utsavam SrI Ramanuja Mission",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/pAdukA_sahasram_01_adhyayana_Utsavam_201213_SrI_Ramanuja_Mission.mp3"
+        },
+        {
+          "part" : "Paduka Sahasram",  
+          "title" : "pAdukA sahasram 02 adhyayana Utsavam SrI Ramanuja Mission",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/pAdukA_sahasram_02_adhyayana_Utsavam_201213_SrI_Ramanuja_Mission.mp3"
+        },
+        {
+          "part" : "AzhvAr Anubhavam",  
+          "title" : "01 AzhvAr anubhavam English ahobilam tirumangaiAzhvAr",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/01_AzhvAr_anubhavam_English_ahobilam_tirumangaiAzhvAr.mp3"
+        },
+        {
+          "part" : "AzhvAr Anubhavam",  
+          "title" : "02 AzhvAr anubhavam English ahObilam tirumangai AzhvAr",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/02_AzhvAr_anubhavam_English_ahObilam_tirumangai_AzhvAr.mp3"
+        },
+        {
+          "part" : "vAraNamAyiram",  
+          "title" : "01 vAraNamAyiram nAchchiyAr tirumozhi Intr",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/01_vAraNamAyiram_nAchchiyAr_tirumozhi_Intro.mp3"
+        },
+        {
+          "part" : "vAraNamAyiram",  
+          "title" : "02 vAaraNamAyiram nAchchyiAr tirumozhi verse 1",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/02_vAaraNamAyiram_nAchchyiAr_tirumozhi_verse1.mp3"
+        },
+        {
+          "part" : "vAraNamAyiram",  
+          "title" : "03 vAraNamAyiram nAlai vaduvai Verse 2",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/03_vAraNamAyiram_nAlai_vaduvai_Verse_2.mp3"
+        },
+        {
+          "part" : "vAraNamAyiram",  
+          "title" : "04 vAraNamAyiram indiran uLLitta verse 3",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/04_vAraNamAyiram_indiran_uLLitta_verse_3.mp3"
+        },
+        {
+          "part" : "vAraNamAyiram",  
+          "title" : "05 vAraNamAyiram nARRisai tIrtam koNarntu Verse 4",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/05_vAraNamAyiram_nARRisai_tIrtam_koNarntu_Verse_4.mp3"
+        },
+        {
+          "part" : "vAraNamAyiram",  
+          "title" : "06 vAraNam Ayiram verse 5 kAsi yAtrA oonjal pidi suttral",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/06_vAraNam_Ayiram_verse_5_kAsi_yAtrA_oonjal_pidi_suttral.mp3"
+        },
+        {
+          "part" : "vAraNamAyiram",  
+          "title" : "07 vAraNam Ayiram kanyA dhAnam tirumAngalya dhAraNam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/07_vAraNam_Ayiram_kanyA_dhAnam_tirumAngalya_dhAraNam.mp3"
+        },
+        {
+          "part" : "vAraNamAyiram",  
+          "title" : "08 vAraNam Ayiram pAnigrahaNam verse 6 mattaLam kotta",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/08_vAraNam_Ayiram_pAnigrahaNam_verse_6_mattaLam_kotta.mp3"
+        },
+        {
+          "part" : "vAraNamAyiram",  
+          "title" : "09 vAraNam Ayiram pAnigrahaNam saptapadi mantrAs verse 7 vAy nallAr",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/09_vAraNam_Ayiram_pAnigrahaNam_saptapadi_mantrAs_verse_7_vAy_nallAr.mp3"
+        },
+        {
+          "part" : "vAraNamAyiram",  
+          "title" : "10 vAraNam Ayiram saptapadi asmArOhaNam verse 8 immaikkum",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/10_vAraNam_Ayiram_saptapadi_asmArOhaNam_verse_8_immaikkum.mp3"
+        },
+        {
+          "part" : "vAraNamAyiram",  
+          "title" : "11 vAraNam Ayiram lAja homam verse 9 varisilai vAl",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/11_vAraNam_Ayiram_lAja_homam_verse_9_varisilai_vAl.mp3"
+        },
+        {
+          "part" : "vAraNamAyiram",  
+          "title" : "12 vAraNam Ayiram just married divine couple verses 10 and 11",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/12_vAraNam_Ayiram_just_married_divine_couple_verses_10_and_11.mp3"
+        },
+        {
+          "part" : "Uddhava Gita",  
+          "title" : "Detroit Uddhava Geeta Intro ASR",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Detroit_UddhavaGeetaIntro_Jan17_ASR.mp3"
+        },
+        {
+          "part" : "Uddhava Gita",  
+          "title" : "001 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/001_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "002 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/002_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "003 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/003_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "004 Uddhava Gita English Srimad Bhgavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/004_Uddhava_Gita_English_Srimad_Bhgavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "005 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/005_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "006 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/006_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "007 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/007_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "008 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/008_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "009 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/009_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "010 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/010_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "011 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/011_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "012 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/012_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "013 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/013_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "014 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/014_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "015 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/015_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "016 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/016_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "017 Uddhava Gita English Srimad Bhagavatham",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/017_Uddhava_Gita_English_Srimad_Bhagavatham.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "018 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/018_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "019 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/019_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "020 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/020_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "021 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/021_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "022 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/022_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "023 Uddhava Gita English Srimad Bhagavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/023_Uddhava_Gita_English_Srimad_Bhagavatam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "024 Uddhava Gita English Uddhava Saranagati",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/024_Uddhava_Gita_English_Uddhava_Saranagati.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "025 Uddhava Gita English Uddhava Saranagaty 2",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/025_Uddhava_Gita_English_Uddhava_Saranagaty_2.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "026 Uddhava Gita English You are your guru",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/026_Uddhava_Gita_English_You_are_your_guru.mp3"
+        },
+
+{
+          "part" : "Uddhava Gita",  
+          "title" : "027 Uddhava Gita English Human form is superior",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/027_Uddhava_Gita_English_Human_form_is_superior.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "028 Uddhava Gita English Realization not thru senses",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/028_Uddhava_Gita_English_Realization_not_thru_senses.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "029 Uddhava Gita English Implementation strategies",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/029_Uddhava_Gita_English_Implementation_strategies.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "030 Uddhava Gita English Yadhu asks Avadhuta 1",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/030_Uddhava_Gita_English_Yadhu_asks_Avadhuta_1.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "031 Uddhava Gita English Yadhu asks Avadhuta 2",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/031_Uddhava_Gita_English_Yadhu_asks_Avadhuta_2.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "032 Uddhava Gita English Yadhu asks Avadhuta 3",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/032_Uddhava_Gita_English_Yadhu_asks_Avadhuta_3.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "033 Uddhava Gita English Avadhutas guru Earth",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/033_Uddhava_Gita_English_Avadhutas_guru_Earth.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "034 Uddhava Gita English Patience is a virtue",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/034_Uddhava_Gita_English_Patience_is_a_virute.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "035 Uddhava Gita English Take it from the air",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/035_Uddhava_Gita_English_Take_it_from_the_air.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "036 Uddhava Gita English This too shall pass",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/036_Uddhava_Gita_English_This_too_shall_pass.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "037 Uddhava Gita English Panca bhutam and subtility",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/037_Uddhava_Gita_English_Panca_bhutam_and_subtility.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "038 Uddhava Gita English AkAsa and Apa",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/038_Uddhava_Gita_English_AkAsa_and_Apa.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "039 Uddhava Gita English agnimeeLe purohitaM",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/039_Uddhava_Gita_English_agnimeeLe_purohitaM.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "040 Uddhava Gita English Fire as the guru",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/040_Uddhava_Gita_English_Fire_as_the_guru.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "041 Uddhava Gita English Pure and glow like fire",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/041_Uddhava_Gita_English_Pure_and_glow_like_fire.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "042 Uddhava Gita English Blessings from mahAns",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/042_Uddhava_Gita_English_Blessings_from_mahAns.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "043 Uddhava Gita English bhagvAn is in everything",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/043_Uddhava_Gita_English_bhagvAn_is_in_everything.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "044 Uddhava Gita English Chandra Kala",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/044_Uddhava_Gita_English_Chandra_Kala.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "045 Uddhava Gita English Take and Give back",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/045_Uddhava_Gita_English_Take_and_Give_back.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "046 Uddhava Gita English Pigeon Story",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/046_Uddhava_Gita_English_Pigeon_Story.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "047 Uddhava Gita English Relationship",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/047_Uddhava_Gita_English_Relationship.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "048 Uddhava Gita English Love but not to the extreme",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/048_Uddhava_Gita_English_Love_but_not_to_the_extreme.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "049 Uddhava Gita English Dove love each other",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/049_Uddhava_Gita_English_Dove_love_each_other.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "050 Uddhava Gita English Pigeon family expands",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/050_Uddhava_Gita_English_Pigeon_family_expands.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "051 Uddhava Gita English Self inflicted destiny",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/051_Uddhava_Gita_English_Self_inflicted_destiny.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "052 Uddhava Gita English Human life mOksham door",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/052_Uddhava_Gita_English_Human_life_mOksham_door.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "053 Uddhava Gita English Summary of so far",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/053_Uddhava_Gita_English_Summary_of_so_far.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "054 Uddhava Gita English Bhagavan likes lazy people",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/054_Uddhava_Gita_English_Bhagavan_likes_lazy_people.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "055 Uddhava Gita English Our misery His compassion",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/055_Uddhava_Gita_English_Our_misery_His_compassion.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "056 Uddhava Gita English Bhagavad Ramanujas parting words",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/056_Uddhava_Gita_English_Bhagavad_Ramanujas_parting_words.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "057 Uddhava Gita Gurus Ocean and Moth",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/057_Uddhava_Gita_Gurus_Ocean_and_Moth.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "058 Uddhava Gita Gurus Moth and Woman",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/058_Uddhava_Gita_Gurus_Moth_and_Woman.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "059 Uddhava Gita Gurus Bee and Elephant",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/059_Uddhava_Gita_Gurus_Bee_and_Elephant.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "060 Uddhava Gita Gurus honey thief and deer",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/060_Uddhava_Gita_Gurus_honey_thief_and_deer.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "061 Uddhava Gita Gurus Deer and Fish",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/061_Uddhava_Gita_Gurus_Deer_and_Fish.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "062 Uddhava Gita Gurus Fish and tongue",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/062_Uddhava_Gita_Gurus_Fish_and_tongue.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "063 Uddhava Gita Gurus PingalA intro",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/063_Uddhava_Gita_Gurus_PingalA_intro.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "064 Uddhava Gita Pingala self blaming",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/064_Uddhava_Gita_Pingala_self_blaming.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "065 Uddhava Gita PingalAs advise on tattvams",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/065_Uddhava_Gita_PingalAs_advise_on_tattvams.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "066 Uddhava Gita VisishtAdvaitam Pingala Talking",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/066_Uddhava_Gita_VisishtAdvaitam_Pingala_Talkin.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "067 Uddhava Gita Pingala bhagavAns mercy",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/067_Uddhava_Gita_Pingala_bhagavAns_mercy.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "068 Uddhava Gita Pingala does saraNAgati",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/068_Uddhava_Gita_Pingala_does_saraNAgati.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "069 Uddhava Gita End of Pingala Story",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/069_Uddhava_Gita_End_of_Pingala_Story.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "070 Uddhav Gita avadhutAs common advice",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/070_Uddhav_Gita_avadhutAs_common_advice.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "071 Uddhava Gita Guru 18 The hawk bird",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/071_Uddhava_Gita_Guru_18_The_hawk_bird.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "072 Uddhava Gita Gurus Child and Young girl",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/072_Uddhava_Gita_Gurus_Child_and_Young_girl.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "073 Uddhava Gita Mind control",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/073_Uddhava_Gita_Mind_control.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "074 Uddhava Gita 22nd guru Snake",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/074_Uddhava_Gita_22nd_guru_Snake.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "075 Uddhava Gita Guru 23 Spider",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/075_Uddhava_Gita_Guru_23_Spider.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "076 Uddhava Gita Narayana Upanishad",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/076_Uddhava_Gita_Narayana_Upanishad.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "077 Uddhava Gita",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/077_Uddhava_Gita.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "078 Uddhava Gita Pralayam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/078_Uddhava_Gita__Pralayam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "079 Uddhava Gita srushti and 23rd guru Spider",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/079_Uddhava_Gita_srushti_and_23rd_guru_Spider.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "080 Uddhava Gita 24th guru Wasp",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/080_Uddhava_Gita_24th_guru_Wasp.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "081 Uddhava Gita Summary of 24 gurus",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/081_Uddhava_Gita_Summary_of_24_gurus.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "082 Uddhava Gita 25th Guru your own body",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/082_Uddhava_Gita_25th_Guru_your_own_body.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "083 Uddhava Gita Perils of the body",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/083_Uddhava_Gita_Perils_of_the_body.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "084 Uddhava Gita Body and its connections",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/084_Uddhava_Gita_Body_and_its_connections.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "085 Uddhava Gita God created humans",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/085_Uddhava_Gita_God_created_humans.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "086 Uddhava Gita Avadhuas conclusions",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/086_Uddhava_Gita_Avadhuas_conclusions.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "087 Uddhava Gita KrishNA conclude on avadhutA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/087_Uddhava_Gita_KrishNA_conclude_on_avadhutA.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "088 Uddhava Gita KrishNA on varNasrama dharmA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/088_Uddhava_Gita_KrishNA_on_varNasrama_dharmA.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "089 Uddhava Gita Aacharam and anushtAnam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/089_Uddhava_Gita_Aacharam_and_anushtAnam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "090 Uddahvava Gita Kulam and gOthram",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/090_Uddahvava_Gita_Kulam_and_gOthram.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "091 Uddhava Gita varNasrama dharmA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/091_Uddhava_Gita_varNasrama_dharmA.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "092 Uddhava Gita Dispassion and Determination akAma and vairAgyam ",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/092_Uddhava_Gita_Dispassion_and_Determination_akAma_and_vairAgyam_.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "093 Uddhava Gita Pravrutti and Nivrutti",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/093_Uddhava_Gita_Pravrutti_and_Nivrutti.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "094 Uddhava Gita pravrtti and nivrutti dharmAs",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/094_Uddhava_Gita__pravrtti_and_nivrutti_dharmAs.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "095 Uddhava Gita Two Dos and Two Donts",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/095_Uddhava_Gita__Two_Dos_and_Two_Donts.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "096 Uddhava Gita AcArya lakshaNam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/096_Uddhava_Gita_AcArya_lakshaNam.mp"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "097 Uddhava Gita Sishya lakshaNam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/097_Uddhava_Gita_Sishya_lakshaNam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "098 Uddhava Gita Fire and wood like body and soul",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/098_Uddhava_Gita_Fire_and_wood_like_body_and_soul.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "099 Uddhava Gita inquire athma jnAna",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/099_Uddhava_Gita__inquire_athma_jnAna.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "100 Uddhava Gita AcAryA sishyA sambhandham",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/100_Uddhava_Gita_AcAryA_sishyA_sambhandham.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "101 Uddhava Gita what the Atma jnAnam will do",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/101_Uddhava_Gita_what_the_Atma_jnAnam_will_do.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "102 Uddhava Gita KrishNAs view on purva mImAmsA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/102_Uddhava_Gita_KrishNAs_view_on_purva_mImAmsA.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "103 Uddhava Gita Purva and uttara mImAmsA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/103_Uddhava_Gita_Purva_and_uttara_mImAmsA.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "104 Uddhava Gita KrishNA views Purva mImAmsA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/104_Uddhava_Gita_KrishNA_views_Purva_mImAmsA.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "105 Uddhava Gita alpha astira phalat",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/105_Uddhava_Gita_alpha_astira_phalat.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "106 Uddhava Gita svargam is as bad as bhUlokam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/106_Uddhava_Gita_svargam_is_as_bad_as_bhUlokam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "107 Uddhava GitA KrishNA describes svarga bhOgam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/107_Uddhava_GitA_KrishNA_describes_svarga_bhOgam.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "108 Uddhava Gita KrishNA says even brahmA is scared of Him",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/108_Uddhava_Gita_KrishNA_says_even_brahmA_is_scared_of_Him.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "109 Uddhava Gita guNa dominance and births",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/109_Uddhava_Gita_guNa_dominance_and_births.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "110 Uddhava Gita KrishNAs slOka cornerstone for all others",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/110_Uddhava_Gita_KrishNAs_slOka_cornerstone_for_all_others.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "111 Uddhava Gita Uddhavas questions",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/111_Uddhava_Gita__Uddhavas_questions.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "112 Uddhava Gita Lord KrishNAs first 7 slOkAs revisited",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/112_Uddhava_Gita_Lord_KrishNAs_first_7_slOkAs_revisited.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "113 Uddhava Gita KrishNA distinguishes baddhA and muktA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/113_Uddhava_Gita_KrishNA_distinguishes_baddhA_and_muktA.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "114 Uddhava Gita Overlapping nammAzhvArs tiruvoimozhi",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/114_Uddhava_Gita_Overlapping_nammAzhvArs_tiruvoimozhi.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "115 Uddhava gItA Distinguish baddha and muktA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/115_Uddhava_gItA_Distinguish_baddha_and_muktA.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "116 Uddhava gItA nammAzhvAr and Lord KrishNA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/116_Uddhava_gItA_nammAzhvAr_and_Lord_KrishNA.mp3"
+        },
+{
+          "part" : "Uddhava Gita",  
+          "title" : "117 Uddhava gItA tiruvoimozhi connection",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/117_Uddhava_gItA_tiruvoimozhi_connection.mp3"
+        },
+
+        {
+          "part" : "Vishnu Sahasranamam",  
+          "title" : "01 SrI vishNu sahasra nAmA Introduction",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/01_SrI_vishNu_sahasra_nAmA__Introduction.mp3"
+          
+        },
+        {
+          "part" : "Vishnu Sahasranamam",  
+          "title" : "02 SrI vishNu sahasra nAmA preamble slOkAs",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/02_SrI_vishNu_sahasra_nAmA_preamble_slOkAs.mp3"
+          
+        },
+        {
+          "part" : "Vishnu Sahasranamam",  
+          "title" : "03 SrI vishNu sahasra nAmA Who is bhIshmA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/03_SrI_vishNu_sahasra_nAmA_Who_is_bhIshmA.mp3"
+          
+        },
+         {
+          "part" : "Ramayanam",  
+          "title" : "01 rAmAyaNA Intro to vAlmiki rAmAyaNA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/01_rAmAyaNA_Intro_to_vAlmiki_rAmAyaNA.mp3"
+        },
+        {
+          "part" : "Ramayanam",  
+          "title" : "02 rAmAyaNA 1st slOkA of vAlmikis composition",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/02_rAmAyaNA_1st_slOkA_of_vAlmikis_composition.mp3"
+        },
+{
+          "part" : "Ramayanam",  
+          "title" : "03 rAmAyaNA rAma nAma prabhavam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/03_rAmAyaNA_rAma_nAma_prabhavam.mp3"
+        },
+{
+          "part" : "Ramayanam",  
+          "title" : "Intricacies of rAmAyaNA Dallas Lecture",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Intricacies_of_rAmAyaNA__Dallas_Lecture.mp3"
+        },
+{
+          "part" : "Ramayanam",  
+          "title" : "Srimad vAlmIki rAmAyaNam 01 adhyayana Utsavam SrI Ramanuja Mission",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Srimad_vAlmIki_rAmAyaNam_01_adhyayana_Utsavam_201213_SrI_Ramanuja_Mission.mp3"
+        },
+{
+          "part" : "Ramayanam",  
+          "title" : "SrImad vAlmIki rAmAyaNAm 02 adhyayana Utsavam SrI Ramanuja Mission",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/SrImad_vAlmIki_rAmAyaNAm_02_adhyayana_Utsavam_201213_SrI_Ramanuja_Mission.mp3"
+        },
+{
+          "part" : "Ramayanam",  
+          "title" : "apUrva vishayams in SrImad rAmAyaNA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/apUrva_vishayams_in_SrImad_rAmAyaNA.mp3"
+        },
+
+        {
+          "part" : "Gajendra Moksham",  
+          "title" : "02 bhAgavata Mahimai Gajendra Moksham 1",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/02_bhAgavata_Mahimai_Gajendra_Moksham_1.mp3"
+        },
+        {
+          "part" : "Gajendra Moksham",  
+          "title" : "Gajendra Moksham 2 AshtAksharam in Gajendra Stuti",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Gajendra_Moksm_2_AshtAksharam_in_Gajendra_Stuti.mp3"
+        },
+        {
+          "part" : "Gajendra Moksham",  
+          "title" : "Gajendra Moksham 3 nArAyaNA say without saying it",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Gajendra_Moksham_3_nArAyaNA_say_without_saying_it.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "Gajendra Moksham 04 jagad kAraNakan",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Gajendra_Moksham_04_jagad_kAraNakan.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "Gajendra Moksham 05 praLayam dissolution per sAstrAs",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Gajendra_Moksham_05_praLayam_dissolution_per_sAstrAs.mp3"
+        },
+
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "Gajendra mOksham 06 Bhagavad Gita comparison",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Gajendra_mOksham_06_Bhagavad_Gita_comparison.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "Gajendra moksham Shrinathji Sathsangh",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Gajendra_moksham_Shrinathji_Sathsangh.mp3"
+        },
+        {
+          "part" : "Gajendra Moksham",  
+          "title" : "07 Gajendra mOksham Gajendra and AzhvAr pAsurams",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/07_Gajendra_mOksham_Gajendra_and_AzhvAr_pAsurams.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "08 Gajendra Moksham Amazing words on bhagavAn",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/08_Gajendra_Moksham_Amazing_words_on_bhagavAn.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "09 Gajendra moksham athma pradiipA vedAs cant describe",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/09_Gajendra_moksham_athma_pradiipA_vedAs_cant_describe.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "10 Gajendra Moksham kaivalya nAthAya",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/10_Gajendra_Moksham_kaivalya_nAthAya.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "11 Gajendra Moksham slOkA 11",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/11_Gajendra_Moksham_slOkA_11.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "12 Gajendra Moksham sloka 12 avatarams ",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/12_Gajendra_Moksham_sloka_12_avatarams_.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "13A Gajendra Moksham vibhavAvatArams",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/13A_Gajendra_Moksahm_vibhavAvatArams.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "13B Gajendra Moksham VibhavAvatAram",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/13B_Gajendra_Moksham_VibhavAvatAram.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "14 Gajendra mOksham 13th slOkA Sarira sariiri bhavam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/14_Gajendra_mOksham__13th_slOkA_Sarira_sariiri_bhavam.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "15 Gajendra Moksham 14th slOkA Indriyams",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/15_Gajendra_Moksham_14th_slOkA_Indriyams.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "16 Gajendra Moksham asat and sat",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/16_Gajendra_Moksham_asat_and_sat.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "17 Gajendra Moksham Greatness of pAncarAtra AgamA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/17_Gajendra_Moksham_Greatness_of_pAncarAtra_AgamA.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "18 Gajendra Moksham SlokA 16 Do actions No expectations",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/18_Gajendra_Moksham_SlokA_16_Do_actions_No_expectations.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "19 Gajendra Moksham oil in sesame athma in body",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/19_Gajendra_Moksham_oil_in_sesame_athma_in_body.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "20 Gajendra Moksham BhagavAns srushti prakaraNam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/20_Gajendra_Moksham_BhagavAns_srushti_prakaraNam.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "21 Gajendra Moksham bhUri karuNAya namO alayAya",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/21_Gajendra_Moksham_bhUri_karuNAya_namO_alayAya.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "22 Gajendra Moksham Without prapatti no moksham",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/22_Gajendra_Moksham_Without_prapatti_no_moksham.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "23 Gajendra Moksham Destination thought while in boarding lounge",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/23_Gajendra_Moksham_Destination_thought_while_in_boarding_lounge.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "24 Gajendra mOksham 17 samsari bhakthi yogi and prapannan",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/24_Gajendra_mOksham__17_samsari_bhakthi_yogi_and_prapannan.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "25 Gajendra mOksham 18 Additional blessings",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/25_Gajendra_mOksham_18_Additional_blessings.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "26 gajendra mOksham slokA 19 and 20",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/26_gajendra_mOksham_slokA_19and20.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "27 Gajendra Moksham SrI bAshyam connection",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/27_Gajendra_Moksham_SrI_bAshyam_connection.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "28 Gajendra Moksham tiruvOimozhi Connection",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/28_Gajendra_Moksham_tiruvOimozhi_Connection.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "29 Gajendra mOksham 25 moksham aspirant",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/29_Gajendra_mOksham_25_moksham_aspirant.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "30 gajendra mOksham prapatti eligibility",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/30_gajendra_mOksham_prapatti_eligibility.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "31 gajendra mOksham Upanishads Connection",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/31_gajendra_mOksham_Upanishads_Connection.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "32 gajendra mOksham bhagavad gItA connection",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/32_gajendra_mOksham_bhagavad_gItA_connection.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "34 gajendra mOksham bhagavad sabdham",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/34_gajendra_mOksham_bhagavad_sabdham.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "35 gajendra mOksham done prapatti thus I standby",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/35_gajendra_mOksham__done_prapatti_thus_I_standby.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "36 gajendra mOksham bhagavAns appearance",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/36_gajendra_mOksham_bhagavAns_appearance.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "37 gajendra mOksham poorva vruttantam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/37_gajendra_mOksham_poorva_vruttantam.mp3"
+        },
+{
+          "part" : "Gajendra Moksham",  
+          "title" : "38 gajendra mOksham phala shruthi",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/38_gajendra_mOksham_phala_shruthi.mp3"
+        },
+
+
+        {
+          "part" : "NyAsa Dasakam",  
+          "title" : "nyAsa daskam 01 Detroit",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/nyAsa_daskam_01_Detroit.mp3"
+        },
+        {
+          "part" : "NyAsa Dasakam",  
+          "title" : "nyAsa dasakam 02 Detroit",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/nyAsa_dasakam_02_Detroit.mp3"
+        },
+{
+          "part" : "NyAsa Dasakam",  
+          "title" : "nyAsa dasakam 04 Detroit",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/nyAsa_dasakam_04_Detroit.mp3"
+        },
+{
+          "part" : "NyAsa Dasakam",  
+          "title" : "nyAsa dasakam 05 Detroit",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/nyAsa_dasakam_05_Detroit.mp3"
+        },
+{
+          "part" : "NyAsa Dasakam",  
+          "title" : "nyAsa dasakam 06 Detoit",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/nyAsa_dasakam_06_Detoit.mp3"
+        },
+{
+          "part" : "NyAsa Dasakam",  
+          "title" : "nyAsa dasakam 07 Detroit",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/nyAsa_dasakam_07_Detroit.mp3"
+        },
+{
+          "part" : "NyAsa Dasakam",  
+          "title" : "nyAsa dasakam 08 Ohio",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/nyAsa_dasakam_08_Ohio.mp3"
+        },
+{
+          "part" : "NyAsa Dasakam",  
+          "title" : "nyAsa dasakam 09 Ohio",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/nyAsa_dasakam_09_Ohio.mp3"
+        },
+{
+          "part" : "NyAsa Dasakam",  
+          "title" : "nyAsa dasakam 10 Ohio",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/nyAsa_dasakam_10_Ohio.mp3"
+        },
+
+        {
+          "part" : "Rahasya Treyam",  
+          "title" : "rahasya treyam ashtAksharam tirumantiram explained",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/rahasya_treyam_ashtAksharam_tirumantiram_explained.mp3"
+        },
+        {
+          "part" : "Rahasya Treyam",  
+          "title" : "Rahasya treyam Charama SlokA explained",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Rahasya_treyam_Charama_SlokA_explained.mp3"
+        },
+
+        {
+          "part" : "Rahasya Treyam",  
+          "title" : "Rahasya treyam Dvayam explained",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Rahasya_treyam_Dvayam_explained.mp3"
+        },
+        {
+          "part" : "Rahasya Treyam",  
+          "title" : "Prapannans conduct Ch 14 rahasyatraya sAram",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Prapannans_conduct_Ch_14_rahasyatraya_sAram.mp3"
+        },
+        {
+          "part" : "Rahasya Treyam",  
+          "title" : "Prapannans Duties Ch 15 rahasya traya sAram",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Prapannans_Duties_Ch15_rahasya_traya_sAram.mp3"
+        },
+        {
+          "part" : "Rahasya Treyam",  
+          "title" : "bhAgavata kaimkaryam 1 Ch 16 rahasya traya sAram",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/bhAgavata_kaimkaryam_1_Ch16_rahasya_traya_sAram.mp3"
+        },
+        {
+          "part" : "Rahasya Treyam",  
+          "title" : "Prapannans atonement Ch 18 rahasyatraya sAram",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Prapannans_atonement_Ch_18_rahasyatraya_Aram.mp3"
+        },
+        
+     
+        
+        
+        {
+          "part" : "TiruppallAndu",  
+          "title" : "TiruppallAndu 01 Tamil Tanian and pAsurams",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/TiruppallAndu_01_Tamil_Tanian_and_pAsurams_14.mp3"
+        },
+        {
+          "part" : "TiruppallAndu",  
+          "title" : "TiruppallAndu 02 Tamil pAsurams",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/TiruppallAndu_02_Tamil_pAsurams_58.mp3"
+        },
+        {
+          "part" : "TiruppallAndu",  
+          "title" : "TiruppallAndu 13 English Tanian and Verses",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/TiruppallAndu_13_English_Tanian_and_Verses_14.mp3"
+        },
+        {
+          "part" : "TiruppallAndu",  
+          "title" : "TiruppallAndu 23 English Verses",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/TiruppallAndu_23_English_Verses_58.mp3"
+        },
+        {
+          "part" : "TiruppallAndu",  
+          "title" : "TiruppallAndu 33 English Verses",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/TiruppallAndu_33_English_Verses_912.mp3"
+        },
+        {
+          "part" : "TiruppallAndu",  
+          "title" : "TiruppallAndu 33 Tamil Paasurams",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/TiruppallAndu_33_Tamil_Paasurams_912.mp3"
+        },
+        {
+          "part" : "Questions and Answers",  
+          "title" : "Srivaishnavam Practices QA 01 English lecture",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Srivaishnavam_Practices_QA_01_English_lecture.mp3"
+        },
+        {
+          "part" : "Questions and Answers",  
+          "title" : "Prapatti and QA Dallas millenials Lecture",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/prapatti_and_QA_Dallas_millenials_Lecture.mp3"
+        },
+        {
+          "part" : "Questions and Answers",  
+          "title" : "AcArya mahimai and SaranAgati Q and A Dallas",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/AcArya_mahimai_and_SaranAgati_QandA_Dallas_Apr_23_2017.mp3"
+        },
+        {
+          "part" : "Questions and Answers",  
+          "title" : "Prapatti QA in English",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Prapatti_QA_in_English.mp3"
+        },
+        {
+          "part" : "Questions and Answers",  
+          "title" : "QA on Prapatti dharma bhuta jnAnam Uddhava gita",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/QA_on_Prapatti_dharma_bhuta_jnAnam_Uddhava_gita.mp3"
+        },
+        
+        {
+          "part" : "Ten Minutes Series Keep Listening",  
+          "title" : "01 Ten minutes Series Keep Listening",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/01_Ten_minutes_Series_Keep_Listening.mp3"
+        },
+        {
+          "part" : "Ten Minutes Series Keep Listening",  
+          "title" : "02 Ten Minutes Series Bhagavad Gita and Mahabharatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/02_TenMinutes_Series_Bhagavad_Gita_and_Mahabharatam.mp3"
+        },
+        {
+          "part" : "Ten Minutes Series Keep Listening",  
+          "title" : "03 Ten Minutes Series dharmakshetre kurukshetre",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/03_Ten_Minutes_Series_dharmakshetre_kurukshetre.mp3"
+        },
+        {
+          "part" : "Ten Minutes Series Keep Listening",  
+          "title" : "04 Ten Minutes Series PandavAs Family Tree",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/04_Ten_Minutes_Series_PandavAs_Family_Tree.mp3"
+        },
+        {
+          "part" : "Ten Minutes Series Keep Listening",  
+          "title" : "05 Ten Minute Series BG 1st slOkA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/05_Ten_Minute_Series_BG_1st_slOkA.mp3"
+        },
+        {
+          "part" : "Ten Minutes Series Keep Listening",  
+          "title" : "06 Ten Minute Series Before BG",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/06__Ten_Minute_Series__Before_BG.mp3"
+        },
+        {
+          "part" : "Ten Minutes Series Keep Listening",  
+          "title" : "07 Ten Minute Series DhridarAshtrans true intention",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/07_Ten_Minute_Series__DhridarAshtrans_true_intention.mp3"
+        },
+        {
+          "part" : "Ten Minutes Series Keep Listening",  
+          "title" : "08 Ten Minute Series GeetArta sangraham",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/08__Ten_Minute_Series_GeetArta_sangraham.mp3"
+        },
+        {
+          "part" : "Ten Minutes Series Keep Listening",  
+          "title" : "09 Ten Minute Series 1st verse Desika prabhandham",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/09__Ten_Minute_Series_1st_verse_Desika_prabhandham.mp3"
+        },
+        {
+          "part" : "Ten Minutes Series Keep Listening",  
+          "title" : "10 Ten Minute Series Anjali Vaibhavam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/10_Ten_Minute_Series_Anjali_Vaibhavam.mp3"
+        },
+        {
+          "part" : "Ten Minutes Series Keep Listening",  
+          "title" : "11 Ten Minute Series GeetA Bashyam opening line",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/11_Ten_Minute_Series_GeetA_Bashyam_opening_line.mp3"
+        },
+        {
+          "part" : "Bhagavatam",  
+          "title" : "Bhagavatam English 01 Mahalakshmi Avataram",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Bhagavatam_English_01_Mahalakshmi_Avataram.mp3"
+        },
+        {
+          "part" : "Bhagavatam",  
+          "title" : "Bhagavatam English 02 Dhanvantri Avataram",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Bhagavatam_English_02_Dhanvantri_Avataram.mp3"
+        },
+        {
+          "part" : "Bhagavatam",  
+          "title" : "Bhagavatam English 03 Mohini Avataram",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Bhagavatam_English_03_Mohini_Avataram.mp3"
+        },
+        {
+          "part" : "Bhagavatam",  
+          "title" : "Bhagavatam English 04 The Beginning",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Bhagavatam_English_04_The_Beginning.mp3"
+        },
+        {
+          "part" : "Bhagavatam",  
+          "title" : "Bhagavatam English 05 Bhagavata Rasam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Bhagavatam_English_05_Bhagavata_Rasam.mp3"
+        },
+        {
+          "part" : "Bhagavatam",  
+          "title" : "Bhagavatam English 06 Story of Bhakthi Devi",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Bhagavatam_English_06_Story_of_Bhakthi_Devi.mp3"
+        },
+        {
+          "part" : "Bhagavatam",  
+          "title" : "Bhagavatam English 07 Story of Gokarnan",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Bhagavatam_English_07_Story_of_Gokarnan.mp3"
+        },
+        {
+          "part" : "Bhagavatam",  
+          "title" : "Bhagavatam English 08 Sages Six questions",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Bhagavatam_English_08_Sages_Six_questions.mp3"
+        },
+        {
+          "part" : "Bhagavatam",  
+          "title" : "Bhagavatam English 09 tattva hitha purusharttam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Bhagavatam_English_09_tattva_hitha_purusharttam.mp3"
+        },
+        {
+          "part" : "Bhagavatam",  
+          "title" : "Rukmini Kalyanam Srimad bhAgavatam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Rukmini_Kalyanam_Srimad_bhAgavatam.mp3"
+        },
+        {
+          "part" : "HH AZHAGIASINGAR Anugraham",  
+          "title" : "HH AZHAGIASINGAR anugraham 01",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/HH_AZHAGIASINGAR_anugraham_01.mp3"
+        },
+        {
+          "part" : "HH AZHAGIASINGAR Anugraham",  
+          "title" : "HH AZHAGIASINGAR anugraham 06",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/HH_AZHAGIASINGAR_anugraham_06.mp3"
+        },
+        {
+          "part" : "HH AZHAGIASINGAR Anugraham",  
+          "title" : "HH AZHAGIASINGAR anugraham 08",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/HH_AZHAGIASINGAR_anugraham_08.mp3"
+        },
+        {
+          "part" : "HH AZHAGIASINGAR Anugraham",  
+          "title" : "HH AZHAGIASINGAR anugraham 09",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/HH_AZHAGIASINGAR_anugraham_09.mp3"
+        },
+        {
+          "part" : "HH AZHAGIASINGAR Anugraham",  
+          "title" : "HH AZHAGIASINGAR anugraham 20",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/HH_AZHAGIASINGAR_anugraham_20.mp3"
+        },
+        
+        {
+          "part" : "Nuggets in Topics",  
+          "title" : "01 nuggets in Srimad rahasya traya sAram Ch 0 guru paramparA ",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/01_nuggets_in_Srimad_rahasya_traya_sAram_Ch_0_guru_paramparA_.mp3"
+        },
+        {
+          "part" : "Nuggets in Topics",  
+          "title" : "02 Nuggets in Srimad rahasya traya sAram Ch1 Introduction ",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/02_Nuggets_in_Srimad_rahasya_traya_sAram_Ch1_Introduction_.mp3"
+        },
+        {
+          "part" : "Nuggets in Topics",  
+          "title" : "03 Nuggets in Srimad rahasya traya sAram Ch 2 Establishing the essence sAra nishkarsham",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/03_Nuggers_in_Srimad_rahasya_traya_sAram_Ch_2_Establishing_the_essence_sAra_nishkarsham.mp3"
+        },
+        {
+          "part" : "Nuggets in Topics",  
+          "title" : "04 Nuggets in SRTS Ch3 prtAna pratitantrA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/04_Nuggets_in_SRTS_Ch3_prtAna_pratitantrA.mp3"
+        },
+        {
+          "part" : "Nuggets in Topics",  
+          "title" : "05 Nuggets in SRTS Ch3 conclusion",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/05_Nuggets_in_SRTS_Ch3_conclusion.mp3"
+        },
+        {
+          "part" : "Nuggets in Topics",  
+          "title" : "06 Nuggets in SRTS Ch 4 artha panchakam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/06_Nuggets_in_SRTS_Ch_4_artha_panchakam.mp3"
+        },
+        {
+          "part" : "Nuggets in Topics",  
+          "title" : "07 Nuggets in SRTS Ch 5 tattva treyam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/07_Nuggets_in_SRTS_Ch_5_tattva_treyam.mp3"
+        },
+        {
+          "part" : "Nuggets in Topics",  
+          "title" : "08 Nuggets in SRTS Ch5 Tattvatreyam Continued ",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/08_Nuggets_in_SRTS_Ch5_Tattvatreyam_Contd_.mp3"
+        },
+        {
+          "part" : "Nuggets in Topics",  
+          "title" : "09 Nuggets in SRTS tattvatreya cintanAdikaram",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/09_Nuggets_in_SRTS_tattvatreya_cintanAdikaram.mp3"
+        },
+        {
+          "part" : "Nuggets in Topics",  
+          "title" : "10 Nuggets in SRTS tattva treya cintanAdikArA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/10_Nuggets_in_SRTS_tattva_treya_cintanAdikArA.mp3"
+        },
+        {
+          "part" : "Nuggets in Topics",  
+          "title" : "11 Nuggets in SRTS paradevatA pAramArtika adhikAram",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/11_Nuggets_in_SRTS_paradevatA_pAramArtika_adhikAram.mp3"
+        },
+        {
+          "part" : "Nuggets in Topics",  
+          "title" : "12 Nuggets in SRTS Who am I",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/12_Nuggets_in_SRTS_Who_am_I.mp3"
+        },
+        {
+          "part" : "Nuggets in Topics",  
+          "title" : "13 Nuggets in SRTS What should be my goal",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/13_Nuggets_in_SRTS_What_should_be_my_goal.mp3"
+        },
+        {
+          "part" : "Nuggets in Topics",  
+          "title" : "14 Nuggets in SRTS bhakti and prapatti",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/14_Nuggets_in_SRTS__bhakti_and_prapatti.mp3"
+        },
+        
+        {
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 000 introduction",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_000_introduction.mp3"
+        },
+        {
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 001 SrIrangam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_001_SrIrangam.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 002 tiruuRaiUr",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_002_tiruuRaiUr.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 003 karambanUr",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_003_karambanUr.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 004 tiruveLLaRai",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_004_tiruveLLaRai.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 005 tiruanbil",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_005_tiruanbil.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 006 tiruppEr nagar",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_006_tiruppEr_nagar.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 008 tiruk kUDalUr",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_008_tiruk_kUDalUr.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 009 tiruk kabisthalam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_009_tiruk_kabisthalam.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 010 puLLam bUDangudi",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_010_puLLam_bUDangudi.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 011 tiruADanUr",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_011_tiruADanUr.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 012 tiruk kuDantai",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_012_tiruk_kuDantai.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 013 tiruviNNagar",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_013_tiruviNNagar.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 014 tirunaRaiUr",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_014_tirunaRaiUr.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 015 tirucchERai",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_015_tirucchERai.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 016 tiruk kaNNamangai",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_016_tiruk_kaNNamangai.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 017 tiruk kaNNapuram",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_017_tiruk_kaNNapuram.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 018 tirukkaNNangudi",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_018_tirukkaNNangudi.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 019 tirunAgai",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_019_tirunAgai.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 020 tanjai mAmaNikkovil",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_020_tanjai_mAmaNikkovil.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 021 nandipura viNNagaram",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_021_nandipura_viNNagaram.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 022 tiruveLLiangudi",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_022_tiruveLLiangudi.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 024 tiruc ciRupuliyUr",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_024_tiruc_ciRupuliyUr.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 025 thalaich changa naan madiyam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_025_thalaich_changa_naan_madiyam.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 026 indaLUr",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_026__indaLUr.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 027 tiruk kAvaLampAdi",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_027_tiruk_kAvaLampAdi.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 028 kAzhichIrAma viNNAgaram",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_028_kAzhichIrAma_viNNAgaram.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 029 arimEya viN NAgaram",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_029_arimEya_viN_NAgaram.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 030 vaN purushOttamam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_030_vaN_purushOttamam.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 031 semponsey kovil ",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_031_semponsey_kovil_Sep_28_2011.mp3"
+        },
+{
+          "part" : "Divya Desam Tamil",  
+          "title" : "DIVYA DESAM 032 manimAda kovil ",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DIVYA_DESAM_032_manimAda_kovil_Sep_28_2011.mp3"
+        },
+
+        {
+          "part" : "Prapatti Topic",  
+          "title" : "Prapatti Casual Couch Conversations",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Prapatti_Casual_Couch_Conversations.mp3"
+        },
+        {
+          "part" : "Prapatti Topic",  
+          "title" : "Prapatti Concepts so simplified",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Prapatti_Concepts_so_simplified.mp3"
+        },
+{
+          "part" : "Prapatti Topic",  
+          "title" : "Prapatti Concise Thoughts",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Prapatti_Concise_Thoughts.mp3"
+        },
+{
+          "part" : "Prapatti Topic",  
+          "title" : "Prapatti English Addressed to teenagers and 20 something",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Prapatti_English_Addressed_to_teenagers_and_20something.mp3"
+        },
+{
+          "part" : "Prapatti Topic",  
+          "title" : "Prapatti Lecture 3 Part 1",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Prapatti_Lecture_3_Part_1.mp3"
+        },
+{
+          "part" : "Prapatti Topic",  
+          "title" : "Prapatti Lecture 3 Part 2",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Prapatti_Lecture_3_Part_2.mp3"
+        },
+{
+          "part" : "Prapatti Topic",  
+          "title" : "Prapatti Lord Rama telling its greatness Tamil ",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Prapatti_Lord_Rama_telling_its_greatness_Tamil_.mp3"
+        },
+{
+          "part" : "Prapatti Topic",  
+          "title" : "Prapatti Yet another lecture in English",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Prapatti_Yet_another_lecture_in_English.mp3"
+        },
+{
+          "part" : "Prapatti Topic",  
+          "title" : "Prapatti Arguements and Answers",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Prapatti__Arguements_and_Answers.mp3"
+        },
+{
+          "part" : "Prapatti Topic",  
+          "title" : "Prapatti in simplest terms Lecture in English ",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Prapatti_in_simplest_terms_Lecture_in_English_.mp3"
+        },
+{
+          "part" : "Prapatti Topic",  
+          "title" : "Prapatti simple concept Tamil ",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Prapatti_simple_concept_Tamil_.mp3"
+        },
+{
+          "part" : "Prapatti Topic",  
+          "title" : "Prapatti what we need to know! 1 of 2",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Prapatti_what_we_need_to_know!_1_of_2.mp3"
+        },
+{
+          "part" : "Prapatti Topic",  
+          "title" : "Prapatti what we need to know! 2 of 2",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Prapatti_what_we_need_to_know!__2_of_2.mp3"
+        },
+{
+          "part" : "Prapatti Topic",  
+          "title" : "PRAPATTI Everything you Want to Know About Comprehensively",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/PRAPATTI_Everything_you_want_to_know_about_comprehensively.mp3"
+        },
+{
+          "part" : "Prapatti Topic",  
+          "title" : "Detroit Prapatti Lecture 2",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Detroit_Prapatti_Lecture__2.mp3"
+        },
+{
+          "part" : "Prapatti Topic",  
+          "title" : "Detroit Prapatti Lecture 2 Continued",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Detroit_Prapatti_Lecture__2_contd.mp3"
+        },
+
+        {
+          "part" : "Sri Bashyam",  
+          "title" : "001 SrI bAshyam Introduction",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/001_SrI_bAshyam_Introduction.mp3"
+        },
+        {
+          "part" : "Sri Bashyam",  
+          "title" : "SrI bAshyam 01 English lecture ",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/SrIbAshyam_01_English_lecture_.mp3"
+        },
+{
+          "part" : "Sri Bashyam",  
+          "title" : "01 Sri bAshyam Preliminary Concepts",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/01_Sri_bashyam_Preliminary_Concepts.mp3"
+        },
+{
+          "part" : "Sri Bashyam",  
+          "title" : "002 SrI bAshyam sutrA 1",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/002_SrI_bAshyam_sutrA_1.mp3"
+        },
+{
+          "part" : "Sri Bashyam",  
+          "title" : "02 Sri Bashyam Mangala slOkA 1",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/02_Sri_Bashyam_Mangala_slOkA_1.mp3"
+        },
+{
+          "part" : "Sri Bashyam",  
+          "title" : "03 SrI bAshyam Preliminaries conclusion",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/03_SrI_bAshyam_Preliminaries_conclusion.mp3"
+        },
+{
+          "part" : "Sri Bashyam",  
+          "title" : "03 Sri bAshyam Overview of CH 1 and 2",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/03_Sri_bAshyam_Overview_of_ch_1_and_2.mp3"
+        },
+{
+          "part" : "Sri Bashyam",  
+          "title" : "04 SrI bAshyam Overview of Ch3 sAdanAdyAyam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/04_SrI_bAshyam_Overview_of_Ch3_sAdanAdyAyam.mp3"
+        },
+{
+          "part" : "Sri Bashyam",  
+          "title" : "04 Sri bAshyam 1st brahma sUtrA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/04_Sri_bAshyam_1st_brahma_sUtrA.mp3"
+        },
+{
+          "part" : "Sri Bashyam",  
+          "title" : "05 SrI bAshyam First 4 sutras",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/05_SrI_bAshyam_First_4_sutras.mp3"
+        },
+{
+          "part" : "Sri Bashyam",  
+          "title" : "05 SrI bAshyam Overview of Ch 4 phalAdhyAyam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/05_SrI_bAshyam_Overview_of_Ch_4_phalAdhyAyam.mp3"
+        },
+{
+          "part" : "Sri Bashyam",  
+          "title" : "06 SribAshyam Ch3 sAdanAdhyAyA Closer Look",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/06_SribAshyam_Ch3_sAdanAdhyAyA_Closer_Look.mp3"
+        },
+{
+          "part" : "Sri Bashyam",  
+          "title" : "06 Sri Bashyam Sutras 2 to 4",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/06__Sri_Bashyam_Sutras_2_to_4.mp3"
+        },
+{
+          "part" : "Sri Bashyam",  
+          "title" : "08 SrIbAshyam 4 1 phalAdhyAyam Introduction",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/08_SrIbAshyam_4_1_phalAdhyAyam_Introduction.mp3"
+        },
+{
+          "part" : "Sri Bashyam",  
+          "title" : "09 SrIbashyam 41 phalAdhyAyA paramAtma dhyAnam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/09_SrIbashyam_41_phalAdhyAyA_paramAtma_dhyAnam.mp3"
+        },
+{
+          "part" : "Sri Bashyam",  
+          "title" : "10 Sribashyam 41 Avrutti pAdam bhUma vidyA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/10_Sribashyam_41_Avrutti_pAdam_bhUma_vidyA.mp3"
+        },
+{
+          "part" : "Sri Bashyam",  
+          "title" : "11 Sribashyam 41 Avrutti pAdam bhUma vidyA Conclusion",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/11_Sribashyam_41_Avrutti_pAdam_bhUma_vidyA_Conclusion.mp3"
+        },
+{
+          "part" : "Sri Bashyam",  
+          "title" : "12 SribAshyam 41 bhakthi yOga svarupA completion",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/12_SribAshyam_41_bhakthi_yOga_svarupA_completion.mp3"
+        },
+{
+          "part" : "Sri Bashyam",  
+          "title" : "13 SrIbAshyam 41 Dealing with Sins",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/13_SrIbAshyam_41_Dealing_with_Sins.mp3"
+        },
+{
+          "part" : "Sri Bashyam",  
+          "title" : "14 SrI bAshyam 41 pApAs and puNyAs for upAsakAs bhakthi yOgi",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/14_SrI_bAshyam_41_pApAs_and_puNyAs_for_upAsakAs_bhakthi_yOgi_.mp3"
+        },
+{
+          "part" : "Sri Bashyam",  
+          "title" : "15 SrI bAshyam 4 1 completion",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/15_SrI_bAshyam_4_1_completion.mp3"
+        },
+{
+          "part" : "Sri Bashyam",  
+          "title" : "16 SrI bAshyam chAndogya upanishad 42",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/16_SrI_bAshyam_chAndogya_upanishad_42.mp3"
+        },
+
+        {
+          "part" : "15 Minutes Lecutures",  
+          "title" : "15 minutes 03 yasOdA anubhavam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/15minutes_03_yasOdA_anubhavam.mp3"
+        },
+        {
+          "part" : "15 Minutes Lecutures",  
+          "title" : "15 minutes 06 gangaIyl punidamAya kAviri",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/15minutes_06_gangaIyl_punidamAya_kAviri.mp3"
+        },
+        {
+          "part" : "15 Minutes Lecutures",  
+          "title" : "15 minutes 07 karpUram nArumO",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/15minutes_07_karpUram_nArumO.mp3"
+        },
+        {
+          "part" : "15 Minutes Lecutures",  
+          "title" : "15 minutes 08 angkaN gjAlam anja",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/15minutes_08_angkaN_gjAlam_anja.mp3"
+        },
+        {
+          "part" : "15 Minutes Lecutures",  
+          "title" : "15 minutes 09 agalakillEn iraIyum",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/15minutes_09_agalakillEn_iraIyum.mp3"
+        },
+        {
+          "part" : "15 Minutes Lecutures",  
+          "title" : "15 minutes 10 en nAn seykEn",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/15minutes_10_en_nAn_seykEn.mp3"
+        },
+        {
+          "part" : "15 Minutes Lecutures",  
+          "title" : "15 minutes 11 vittuvakOttammAnE",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/15minutes_11_vittuvakOttammAnE.mp3"
+        },
+        {
+          "part" : "15 Minutes Lecutures",  
+          "title" : "15 minutes 12 nIyum tirumagaLum",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/15minutes_12_nIyum_tirumagaLum.mp3"
+        },
+        {
+          "part" : "15 Minutes Lecutures",  
+          "title" : "15 minutes 13 attiyUrAn puLLai UrvAn",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/15minutes_13_attiyUrAn_puLLai_UrvAn.mp3"
+        },
+        {
+          "part" : "15 Minutes Lecutures",  
+          "title" : "15 minutes 14 araNAm namakku",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/15minutes_14_araNAm_namakku.mp3"
+        },
+        {
+          "part" : "15 Minutes Lecutures",  
+          "title" : "15 minutes 15 inRE Aga nALai Aga",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/15minutes_15_inRE_Aga_nALai_Aga.mp3"
+        },
+        {
+          "part" : "15 Minutes Lecutures",  
+          "title" : "15 minutes 16 vALkaL Agi nALkaL",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/15minutes_16_vALkaL_Agi_nALkaL.mp3"
+        },
+        {
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "001 Divya Desa Anubhavam 62 tiruvidanthai",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/001_Divya_Desa_Anubhavam__62_tiruvidanthai.mp3"
+        },
+        {
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "002 Divya Desa Anubhavam 48 tiruppAdakam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/002_Divya_Desa_Anubhavam__48_tiruppAdakam.mp3"
+        },
+{
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "003 Divya Desa Anubhavam 98 tirukkurugur AzhvAr tirunagari",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/003_Divya_Desa_Anubhavam_98_tirukkurugur_AzhvAr_tirunagari_.mp3"
+        },
+{
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "004 Divya Desa anubhavam 69 badarikAsramam ashtAksharA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/004_Divya_Desa_anubhavam_69_badarikAsramam_ashtAksharA.mp3"
+        },
+{
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "005 Divya Desa Anubhavam 59 tiruvaLLUr and dvayam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/005_Divya_Desa_Anubhavam_59_tiruvaLLUr_and_dvayam.mp3"
+        },
+{
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "006 Divya Desa Anubhavam tiruviNNagar and charama slOkA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/006_Divya_Desa_Anubhavam_tiruviNNagar_and_charama_slOkA.mp3"
+        },
+{
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "007 Divya Desa Anubhavam tirunAvAi and Gajendra mOksham",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/007_Divya_Desa_Anubhavam_tirunAvAi_and_Gajendra_mOksham.mp3"
+        },
+{
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "008 Divya Desa Anubhavam tiruvallikeni and family snapshot",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/008_Divya_Desa_Anubhavam_tiruvallikeni_and_family_snapshot.mp3"
+        },
+{
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "009 Divya Desa Anubhavam tiruvAli tirunagari and vEdu paRi utsavam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/009_Divya_Desa_Anubhavam_tiruvAli_tirunagari_and_vEdu_paRi_utsavam.mp3"
+        },
+{
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "010 Divya Desa Anubhavam tirukkovalUr birth of divya prabhandham",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/010_Divya_Desa_Anubhavam_tirukkovalUr_birth_of_divya_prabhandham.mp3"
+        },
+{
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "011 Divya Desa Anubhavam tiruvendipuram Desika and hayagriivA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/011_Divya_Desa_Anubhavam_tiruvendipuram_Desika_and_hayagriivA.mp3"
+        },
+{
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "012 Divya Desa Anubhavam tirukkudanthai prabhandham rebirth",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/012_Divya_Desa_Anubhavam_tirukkudanthai_prabhandham_rebirth.mp3"
+        },
+{
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "013 Divya Desa Anubhavam tirukkapisthalam gajendra moksham",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/013_Divya_Desa_Anubhavam_tirukkapisthalam_gajendra_moksham.mp3"
+        },
+{
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "014 Divya Desa Anubhavam tirukkaNNamangai lakshmis wedding",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/014_Divya_Desa_Anubhavam_tirukkaNNamangai_lakshmis_wedding.mp3"
+        },
+{
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "015 Divya Desa Anubhavam tirukaNNapuram ashtAkshara siddh",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/015_Divya_Desa_Anubhavam_tirukaNNapuram_ashtAkshara_siddhi.mp3"
+        },
+{
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "016 Divya Desa Anubhavam tirukkanNNankudi avatArams from here",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/016_Divya_Desa_Anubhavam_tirukkanNNankudi_avatArams_from_here.mp3"
+        },
+{
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "017 Divya Desa Anubhavam tirunAgai beauty ultimate",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/017_Divya_Desa_Anubhavam_tirunAgai_beauty_ultimate.mp3"
+        },
+{
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "018 Divya Desa Anubhavam tirunaRaiyUr nAcciAr kovil She comes first",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/018_Divya_Desa_Anubhavam_tirunaRaiyUr_nAcciAr_kovil_She_comes_first.mp3"
+        },
+{
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "019 Divya Desa Anubhavam tiruveLLaRai oldest Divya Desa temple on earth",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/019_Divya_Desa_Anubhavam_tiruveLLaRai_oldest_Divya_Desa_temple_on_earth.mp3"
+        },
+{
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "020 Divya Desa Anubhavam SrIvilliputtur ANDAL avatAra sthalam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/020_Divya_Desa_Anubhavam_SrIvilliputtur_ANDAL_avatAra_sthalam.mp3"
+        },
+{
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "021 Divya Desa Anubhavam tirukkOzhi Fully independent thAyyAr",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/021_Divya_Desa_Anubhavam_tirukkOzhi_Fully_independent_thAyyAr.mp3"
+        },
+{
+          "part" : "Divya Desa Anubhavam",  
+          "title" : "022 Divya Desa Anubhavam tirukkarambanUr uttamar kovil",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/022_Divya_Desa_Anubhavam_tirukkarambanUr_uttamar_kovil.mp3"
+        },
+
+        {
+          "part" : "Tiruppavai",  
+          "title" : "00 tiruppAvai introduction English 2015",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/00_tiruppAvai_introduction_English_2015.mp3"
+        },
+        {
+          "part" : "Tiruppavai",  
+          "title" : "01 tiruppAvai mArghazi thingaL English 2015",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/01_tiruppAvai_mArghazi_thingaL_English_2015.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "02 tiruppAvai vaiyatthu vAzhviirgAL English 2015",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/02_tiruppAvai_vaiyatthu_vAzhviirgAL_English_2015.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "03 tiruppAvai Ongi ulagaLanta English 2015",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/03_tiruppAvai_Ongi_ulagaLanta_English_2015.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "04 tiruppAvai Azhi mazhai kaNNA English",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/04_tiruppAvai_Azhi_mazhai_kaNNA_English_.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "05 tiruppAvai mAyani mannu English",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/05_tiruppAvai_mAyani_mannu_English_.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "06 tiruppAvai puLLum silambinakAN English",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/06_tiruppAvai_puLLum_silambinakAN_English_.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "07 tiruppAvai keesu keesu English ",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/07_tiruppAvai_keesu_keesu_English_.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "08 tiruppAvai keezh vAnam English ",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/08_tiruppAvai_keezh_vAnam_English_.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "09 tiruppAvai thUmaNi mAdattu",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/09_tiruppAvai__thUmaNi_mAdattu.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "10 tiruppAvai nORRu svargam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/10_tiruppAvai_nORRu_svargam.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "11 tiruppAvai kaRRu karavai pala",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/11_tiruppAvai_kaRRu_karavai_pala.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "12 tiruppAvai kanaithu iLam kattruerumai",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/12_tiruppAvai_kanaithu_iLam_kattruerumai.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "13 tiruppAvai puLLin vAi kIndAnai",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/13_tiruppAvai_puLLin_vAi_kIndAnai.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "14 tiruppAvai ungaL puzakkadai",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/14_tiruppAvai_ungaL_puzakkadai.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "15 tiruppAvai elle elankiLiye",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/15_tiruppAvai_elle_elankiLiye.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "16 tiruppAvai nAyaganAi ninRa",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/16_tiruppAvai_nAyaganAi_ninRa.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "17 tiruppAvai ambarame taNNiire",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/17_tiruppAvai_ambarame_taNNiire.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "18 tiruppAvai undu madakaLiRRan",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/18_tiruppAvai_undu_madakaLiRRan.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "19 tiruppAvai kutthu vilakku",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/19_tiruppAvai_kutthu_vilakku.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "20 tiruppAvai muppatthu moovar",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/20_tiruppAvai_muppatthu_moovar.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "21 tiruppAvai ERRa kalangaL",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/21_tiruppAvai_ERRa_kalangaL.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "22 tiruppAvai angaN mA jgAlatthu",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/22_tiruppAvai_angaN_mA_jgAlatthu.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "23A tiruppAvai mAri malai muzainjil manni",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/23A_tiruppAvai_mAri_malai_muzainjil_manni.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "23B tiruppAvai mAri malai muzhangil",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/23B_tiruppAvai_mAri_malai_muzhangil.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "24 tiruppAvai anRi ivulagam aLanthAi",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/24_tiruppAvai_anRi_ivulagam_aLanthAi.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "25 tiruppAvai orutti maganAy piRantu",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/25_tiruppAvai_orutti_maganAy_piRantu.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "26 tiruppAvai mAlE maNivaNNA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/26_tiruppAvai_mAlE_maNivaNNA.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "27 tiruppAvai kUDArai vellum sIr govindA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/27_tiruppAvai_kUDArai_vellum_sIr_govindA.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "28 tiruppAvai kaRavaigaL pin senRu kAnam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/28_tiruppAvai_kaRavaigaL_pin_senRu_kAnam.mp3"
+        },
+{
+          "part" : "Tiruppavai",  
+          "title" : "29 tiruppAvai ciRRanj ciRu kAlE vantu",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/29_tiruppAvai_ciRRanj_ciRu_kAlE_vantu.mp3"
+        },
+        {
+          "part" : "Tiruppavai",  
+          "title" : "30 tiruppAvai vanga kadal kadainta",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/30_tiruppAvai_vanga_kadal_kadainta.mp3"
+        },
+        {
+          "part" : "Tiruppavai",  
+          "title" : "Andals tiruppAvai and rahasya treyam extempore lecture",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Andals_tiruppAvai_and_rahasya_treyam_extempore_lecture.mp3"
+        },
+      
+        
+        {
+          "part" : "Random Lectures",  
+          "title" : "Random 01 varAhA in dasAvatAra stOtra",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_01_varAhA_in_dasAvatAra_stOtra.mp3"
+        },
+        {
+          "part" : "Random Lectures",  
+          "title" : "Random 02 bhUmi pirAtti dhyAna slOkA bhUstuti",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_02_bhUmi_pirAtti_dhyAna_slOkA_bhUstuti.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random 03 bhagavad dhyAna sOpAnam Face description",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_03_bhagavad_dhyAna_sOpAnam_Face_description.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random 04 dayA satakam Dont look at cheap stuff",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_04_dayA_satakam__Dont_look_at_cheap_stuff.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random 05 remaining days on earth varadarAja panchAsat",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_05_remaining_days_on_earth_varadarAja_panchAsat.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random 06 nrusimhAs mother dasAvatAra stOtrA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_06_nrusimhAs_mother_dasAvatAra_stOtrA.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random 07 The protector vAmanA in dasAvatAra stOtrA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_07_The_protector_vAmanA_in_dasAvatAra_stOtrA.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random 08 What we learn from parasurAmA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_08_What_we_learn_from_parasurAmA.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random 09 rAmA embodiment of dharmA dasAvatAra stOtrA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_09_rAmA_embodiment_of_dharmA_dasAvatAra_stOtrA.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random 10 Inseparable balarAmA dasAvatAra stOtrA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_10_Inseparable_balarAmA_dasAvatAra_stOtrA.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random 11 krishNAvatArA in dasAvatAra stOtrA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_11_krishNAvatArA_in_dasAvatAra_stOtrA.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random 12 kAliya nardanA inner meaning svApadesA ",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_12_kAliya_nardanA_inner_meaning_svApadesA_.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random 13 Kalki The apocalyptic avatAr",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_13_Kalki_The_apocalyptic_avatAr.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random 14 matsya avatArA The swinging Fish",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_14_matsya_avatArA_The_swinging_Fish.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random 15 kurmAvatArA the ultimate support",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_15_kurmAvatArA_the_ultimate_support.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random Lectures 16 variAgya pancakam 1",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_Lectures_16_variAgya_pancakam_1.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random Lectures 17 vairAgya Pancakam 2",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_Lectures_17_vairAgya_Pancakam_2.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random Lectures 18 vairAgya pancakam 3",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_Lectures_18_vairAgya_pancakam_3.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random Lectures 19 Sristuti8 connection to SRTS",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_Lectures_19_Sristuti8_connection_to_SRTS.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random Lectures 20 SrIstut9 connection to SRTS",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_Lectures_20_SrIstut9_connection_to_SRTS.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random Lectures 21 SrIstuti6 connection to SRTS",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_Lectures_21_SrIstuti6_connection_to_SRTS.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random Lectures 22 perumAL tirumozhi 51",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_Lectures_22_perumAL_tirumozhi_5_1.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random Lectures 23 perumal tirumozhi 52",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_Lectures_23_perumal_tirumozhi_5_2.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random Lectures 24 perumAL tirumozhi 53",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_Lectures_24_perumAL_tirumozhi_5_3.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random Lectures 25 perumAL tirumozhi 54",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_Lectures_25_perumAL_tirumozhi_5_4.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random Lectures 26 perumAL tirumozhi 55",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_Lectures_26_perumAL_tirumozhi_55.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random Lectures 27 perumAL tirumozhi 56",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_Lectures_27_perumAL_tirumozhi_56.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random Lecture 28 perumAL tirumozhi 57",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_Lecture_28_perumAL_tirumozhi_5_7.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random Lecture 29 perumAL tirumozhi 58",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_Lecture_29_perumAL_tirumozhi_58.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random Lectures 30 perumAL tirumozhi 5 9 and 10",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_Lectures_30_perumAL_tirumozhi_5_9and10.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random Lectures 31 Question Answer",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_Lectures_31_QuestionAnswer.mp3"
+        },
+{
+          "part" : "Random Lectures",  
+          "title" : "Random Lectures 32 Sristuti 4",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Random_Lectures_32_Sristuti_4.mp3"
+        },
+        {
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "01 abhaya pradAna sAram English Introduction to Vibhishana Saranagaty",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/01_abhaya_pradAna_sAram_English_Introduction_to_Vibhishana_Saranagaty.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "02 abhaya pradAna sAram English mangala slOkas Sanskrit",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/02_abhaya_pradAna_sAram_English_mangala_slOkas_Sanskrit.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "03 abhaya pradAna sAram English Outline and pAsurams",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/03_abhaya_pradAna_sAram_English_Outline_and_pAsurams.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "04 abhaya pradAna sAram English rAmAyaNA avatAram",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/04_abhaya_pradAna_sAram_English_rAmAyaNA_avatAram.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "05 abhaya pradAna sAram English Lord rAmA is the final God",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/05_abhaya_pradAna_sAram_English_Lord_rAmA_is_the_final_God.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "06 abhaya pradAna sAram English devAs doing saraNAgaty",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/06_abhaya_pradAna_sAram_English_devAs_doing_saraNAgaty.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "07 abhaya pradAna sAram lakshmaNa saranAgaty English",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/07_abhya_pradAna_sAram_lakshmaNa_saranAgaty_English.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "08 abhaya pradAna sAram bharata saraNAgaty English",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/08_abhaya_pradAna_sAram_bharata_saraNAgaty_English.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "09 abhaya pradAna sAram Kaikeyi to Rama go forest English",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/09_abhya_pradAna_sAram_Kaikeyi_to_Rama_go_forest_English.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "10 abhaya pradAna sAram rAmAs response to Kaikeyi English",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/10_abhaya_pradAna_sAram_rAmAs_response_to_Kaikeyi_English.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "11 abhaya pradAna sAram vAlmiki better poet than others",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/11_abhaya_pradAna_sAram_vAlmiki_better_poet_than_others.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "12 abhaya pradAna sAram Aranya kAndA rishis saraNAgaty",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/12_abhaya_pradAna_sAram_Aranya_kAndA_rishis_saraNAgaty.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "13 abhaya pradAna sAram kAkAsurA hurts sitA pirAtti",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/13_abhaya_pradAna_sAram_kAkAsurA_hurts_sitA_pirAtti.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "14 abhaya pradAna sAram Lord rAmA pardons kAkAsurA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/14_abhaya_pradAna_sAram_Lord_rAmA_pardons_kAkAsurA.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "15 abhaya pradAna sAram parasurAma was pardoned",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/15_abhaya_pradAna_sAram_parasurAma_was_pardoned.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "16 abhaya pradAna sAram duel of rAmAs",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/16_abhaya_pradAna_sAram_duel_of_rAmAs.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "17 abhaya pradAna sAram Sugriiva Friendship",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/17_abhaya_pradAna_sAram_Sugriiva_Friendship.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "18 abhaya pradAna sAram vAli vadam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/18_abhaya_pradAna_sAram_vAli_vadam.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "19 abhaya pradAna sAram vAli questions rAmA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/19_abhaya_pradAna_sAram_vAli_questions_rAmA.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "20 abhaya pradAna sAram rAmA answers vAli",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/20_abhaya_pradAna_sAram_rAmA_answers_vAli.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "21 abhaya pradAna sAram rAmA answers vAli 2",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/21_abhaya_pradAna_sAram_rAmA_answers_vAli_2.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "22 abhaya pradAna sAram Real reason for vAli vadam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/22_abhaya_pradAna_sAram_Real_reason_for_vAli_vadam.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "23 Abhaya pradAna sAram thAras Euology",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/23_Abhaya_pradAna_sAram_thAras_Euology.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "24 Abhaya PradAna sAram Ahalyas misconduct",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/24_Abhaya_PradAna_sAram_Ahalyas_misconduct.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "25 Abhaya pradAna sAram Ahalaya and Draupati",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/25_Abhaya_pradAna_sAram_Ahalaya_and_Draupati.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "26 Abhaya pradAna sAram sItA tArA and manDoDari",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/26_Abhya_pradAna_sAram_sItA_tArA_and_manDoDari.mp3"
+        },
+{
+          "part" : "Abhaya pradAna sAram",  
+          "title" : "27 abhaya pradAna sAram SugriivA and LakshmaNa apologies",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/27_abhaya_pradAna_sAram_SugriivA_and_LakshmaNa_apologies.mp3"
+        },
+
+        {
+          "part" : "Others",  
+          "title" : "01 Bhagavata Mahimai Supremacies of Narasimha avataram",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/01_Bhagavata_Mahimai_Supremacies_of_Narasimha_avataram.mp3"
+        },
+        {
+          "part" : "Others",  
+          "title" : "01 gOpAla vimsati English slOkA 01 Krishna the means",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/01_gOpAla_vimsati_English_slOkA_01_Krishna_the_means.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "Vaikunta ekAdasi significance impromptu lecture",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/2017_vaikunta_ekAdasi_significance_impromptu_lecture.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "20 GunAs Bhagavad GIta KrishNAs upadesam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/20_GunAs__Bhagavad_GIta_KrishNAs_upadesam.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "ANDAL prabhAvam tiruADippUram tirunakshatram special",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/ANDAL_prabhAvam_tiruADippUram_tirunakshatram_special.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "Brief meaning of dvaya mantrA Impromptu Lecture",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Brief_meaning_of_dvaya_mantrA_Impromptu_Lecture.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "DeepAvali Sri Stuti slokA 16 Why wealth is needed for everyone!",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/DeepAvali_2015_Sri_Stuti_slokA_16_Why_wealth_is_needed_for_everyone!.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "Deepavali Message on Acaram and anushtAnam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Deepavali_2015_Message_on_Acaram_and_anushtAnam.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "Detroit Rama Krishna Comparison ASR",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Detroit_Rama_Krishna_Comparison_ASR.mp3"
+        },
+
+{
+          "part" : "Others",  
+          "title" : "Divine Union English Srirangam sErthi Utsavam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Divine_Union_English_Srirangam_sErthi_Utsavam.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "Dolai Tamil Why we do it",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Dolai_Tamil_Why_we_do_it.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "Hayagriiva stuti by Vaadiraaja",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Hayagriiva_stuti_by_Vaadiraaja.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "Lord Nrusimha English Brief Anubhavam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Lord_Nrusimha_English_Brief_Anubhavam.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "Practicing Srivaishnavam Abroad Some thoughts",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Practicing_Srivaishnavam_Abroad_Some_thoughts.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "Prakara Utsavam Detroit Balaji Temple ",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Prakara_Utsavam_Detroit_Balaji_Temple_Feb_14_2015.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "Removal of Diseases 12 Tamil Periyaazhvaar Tirumozhi",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Removal_of_Diseases_12_Tamil_Periyaazhvaar_Tirumozhi.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "Removal of Diseases 22 Tamil Periyaazhvaar Tirumozhi",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Removal_of_Diseases_22_Tamil_Periyaazhvaar_Tirumozhi.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "SrI Hayagriiva mahAmtmyam Chicago",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/SrI_Hayagriiva_mahAmtmyam_Chicago.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "SrI hayagriiva mahimai audio ",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/SrI_hayagriiva_mahimai_audio_.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "Srinathji Sathsangh Uddhava Gita 01 Intro",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Srinathji_Sathsangh_Uddhava_Gita_01_Intro.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "Srinathji Sathsang 2 Uddhava Gita",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Srinathji_Sathsang_2_Uddhava_Gita.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "TIRUNARASINGA 02 SrI jwAlA nrusimhA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/TIRUNARASINGA_02_SrI_jwAlA_nrusimhA.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "TIRUNARASINGA 03 ahObila nrusimhA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/TIRUNARASINGA_03_ahObila_nrusimhA.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "Tondaradippodi Azhvar Vaibhavam English",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Tondaradippodi_Azhvar_Vaibhavam_English_.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "Toronto SrI Hayagriivar Introduction",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Toronto_SrI_Hayagriivar_Introduction.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "Vara Lakshmi Vratam",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Vara_Lakshmi_Vratam.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "Varaha AvatAram Tamil The humble husband",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Varaha_AvatAram_Tamil_The_humble_husband.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "Varaha Avatar English The humble husband",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/Varaha_Avatar_English_The_humble_husband.mp3"
+        },
+        {
+          "part" : "Others",  
+          "title" : "bhagavAn rishis azhvArs and AcAryAs Detroit Lecture",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/bhagavAn_rishis_azhvArs_and_AcAryAs_Detroit_Lecture_Feb_14_2015.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "bhagavad rAmAnujA better than bhagavAn Himself!",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/bhagavad_rAmAnujA_better_than_bhagavAn_Himself!_Apr_10_2017.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "dhyAna slOkAs ashtAkshara mantrA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/dhyAna_slOkAs__ashtAkshara_mantrA.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "gOdA stuti 21",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/gOdA_stuti_21.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "kaisika mahAtmyam From varaha purANA",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/kaisika_mahAtmyam_From_varaha_purANA.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "kulasEkarAzhvAr Vaibhavam Detroit",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/kulasEkarAzhvAr_Vaibhavam_Detroit.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "nrusimha everyones favorite",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/nrusimha_everyones_favorite.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "Panca samskAram samAsrayaNam Details of the process",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/panca_samskAram_samAsrayaNam_Details_of_the_process.mp3"
+        },
+{
+          "part" : "Others",  
+          "title" : "svAmi dEsikanin kavithA sAmarthyam audio ",
+          "url": "https://storage.googleapis.com/hiddeningredents.blogspot.com/Prapatti/svAmi_dEsikanin_kavithA_sAmarthyam_audio_.mp3"
+        }
+
+        
+
+      ]
+       
+  }

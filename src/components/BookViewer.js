@@ -31,11 +31,22 @@ class ActionBarImage extends Component {
 
     if (Globals.share_url) {
       try {
- 
-         var filepath = FileSystem.documentDirectory +'/' + Globals.share_title + '.pdf'; 
+        /// to remove space betwean string.
+       /// title = title.replace(/(^\s+|\s+$)/g, '');
+       
+       var i =0;
+       for(i; i < Globals.share_title.length; i++) {
 
-         FileSystem.downloadAsync( Globals.share_url,
-         FileSystem.documentDirectory +'/' + Globals.share_title + '.pdf'
+         title =  Globals.share_title.replace(/\s+/g , "");
+         
+        } 
+        var filepath = FileSystem.documentDirectory + title +'.pdf'; 
+       
+
+        //  console.log("filepath   " +  filepath);
+        
+         FileSystem.downloadAsync(
+           Globals.share_url, filepath
         ).then(({ uri }) => {
            this.update(filepath);     
            console.log('Finished downloading to ', uri);
@@ -90,7 +101,6 @@ class ActionBarImage extends Component {
          <Button title = "download|" color="#841584"   onPress= {()=>this.downloadFile()}/>
 
         {/* //  <Icon type = "Ionicons" name = "md-musical-notes"/> 
-
         //  <Icon type = "Ionicons" name = "md-musical-notes"/> 
        */}
 
